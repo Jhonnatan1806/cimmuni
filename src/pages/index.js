@@ -89,6 +89,7 @@ export default function Home() {
             alt='banner 2023'
             rounded='md'
             shadow='md'
+            width={['100%', '50%']}
           />
         </Flex>
       </LayoutSimple>

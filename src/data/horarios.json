@@ -1,0 +1,100 @@
+[
+  {
+    "horas":"08:40 - 09:00",
+    "martes":"Inauguración",
+    "miercoles":"",
+    "jueves":"",
+    "viernes":""
+  },
+  {
+    "horas":"09:00 - 09:25",
+    "martes":"C1",
+    "miercoles":"C8",
+    "jueves":"C15",
+    "viernes":"C22"
+  },
+  {
+    "horas":"09:25 - 09:50",
+    "martes":"C2",
+    "miercoles":"C9",
+    "jueves":"C16",
+    "viernes":"C23"
+  },
+  {
+    "horas":"09:50 - 10:15",
+    "martes":"C3",
+    "miercoles":"C10",
+    "jueves":"C17",
+    "viernes":"C24"
+  },
+  {
+    "horas":"10:15 - 10:25",
+    "martes":"Pausa",
+    "miercoles":"Pausa",
+    "jueves":"Pausa",
+    "viernes":"Pausa"
+  },
+  {
+    "horas":"10:25 - 10:50",
+    "martes":"C4",
+    "miercoles":"C11",
+    "jueves":"C18",
+    "viernes":"C25"
+  },
+  {
+    "horas":"10:50 - 11:15",
+    "martes":"C5",
+    "miercoles":"C12",
+    "jueves":"C19",
+    "viernes":"C26"
+  },
+  {
+    "horas":"11:15 - 12:00",
+    "martes":"P1",
+    "miercoles":"P4",
+    "jueves":"P7",
+    "viernes":"P10"
+  },
+  {
+    "horas":"12:00 - 14:30",
+    "martes":"Almuerzo",
+    "miercoles":"Almuerzo",
+    "jueves":"Almuerzo",
+    "viernes":"Almuerzo"
+  },
+  {
+    "horas":"14:30 - 15:15",
+    "martes":"P2",
+    "miercoles":"P5",
+    "jueves":"P8",
+    "viernes":"P11"
+  },
+  {
+    "horas":"15:15 - 15:40",
+    "martes":"C6",
+    "miercoles":"C13",
+    "jueves":"C20",
+    "viernes":"C27"
+  },
+  {
+    "horas":"15:40 - 16:05",
+    "martes":"C7",
+    "miercoles":"C14",
+    "jueves":"C21",
+    "viernes":"C28"
+  },
+  {
+    "horas":"16:05 - 16:50",
+    "martes":"P3",
+    "miercoles":"P6",
+    "jueves":"P9",
+    "viernes":"P10"
+  },
+  {
+    "horas":"16:50 - 18:00",
+    "martes":"",
+    "miercoles":"",
+    "jueves":"",
+    "viernes":"Clausura"
+  }
+]

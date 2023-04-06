@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Optimización",
+    "description": "Lorem ipsum",
+    "image": "/images/optimizacion.webp"
+  },
+  {
+    "name": "Ec. Diferenciales y Sistemas Dinámicos",
+    "description": "Lorem ipsum",
+    "image": "https://dummyimage.com/300x300/000/fff"
+  },
+  {
+    "name": "Álgebra, Geometría y Topología",
+    "description": "Lorem ipsum",
+    "image": "https://dummyimage.com/300x300/000/fff"
+  },
+  {
+    "name": "Análisis Numérico",
+    "description": "Lorem ipsum",
+    "image": "https://dummyimage.com/300x300/000/fff"
+  },
+  {
+    "name": "Probabilidad y Procesos Estocásticos",
+    "description": "Lorem ipsum",
+    "image": "https://dummyimage.com/300x300/000/fff"
+  },
+  {
+    "name": "Análisis y Teoría de Números",
+    "description": "Lorem ipsum",
+    "image": "https://dummyimage.com/300x300/000/fff"
+  }
+]

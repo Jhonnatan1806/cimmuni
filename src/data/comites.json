@@ -1,0 +1,138 @@
+{
+  "scientist": [
+    {
+      "name": "Angel Ramirez",
+      "institution": "IMCA & FC, UNI",
+      "country": "pe",
+      "image": "/images/profile_default.webp"
+    },
+    {
+      "name": "Dimas Abanto",
+      "institution": "IMCA & FC, UNI",
+      "country": "pe",
+      "image": "/images/profile_default.webp"
+    },
+    {
+      "name": "Ernesto Oré",
+      "institution": "IMCA & FC, UNI",
+      "country": "pe",
+      "image": "/images/profile_default.webp"
+    },
+    {
+      "name": "Gonzalo Panizo",
+      "institution": "IMCA & FC, UNI",
+      "country": "pe",
+      "image": "/images/profile_default.webp"
+    },
+    {
+      "name": "Joe Palacios",
+      "institution": "IMCA & FC, UNI",
+      "country": "pe",
+      "image": "/images/profile_default.webp"
+    },
+    {
+      "name": "Oswaldo Velásquez",
+      "institution": "IMCA & FC, UNI",
+      "country": "pe",
+      "image": "/images/profile_default.webp"
+    },
+    {
+      "name": "Roger Metzger",
+      "institution": "IMCA & FC, UNI",
+      "country": "pe",
+      "image": "/images/profile_default.webp"
+    }
+  ],
+  "organizer": [
+    {
+      "name": "Andrés Chulluncuy",
+      "country": "pe",
+      "image": "/images/profile_default.webp"
+    },
+    {
+      "name": "Benito Ostos",
+      "country": "pe",
+      "image": "/images/profile_default.webp"
+    },
+    {
+      "name": "Eladio Ocaña",
+      "country": "pe",
+      "image": "/images/profile_default.webp"
+    },
+    {
+      "name": "Félix Villanueva",
+      "country": "pe",
+      "image": "/images/profile_default.webp"
+    },
+    {
+      "name": "Frank Navarro",
+      "country": "pe",
+      "image": "/images/profile_default.webp"
+    },
+    {
+      "name": "Héctor Guimaray",
+      "country": "pe",
+      "image": "/images/profile_default.webp"
+    },
+    {
+      "name": "Jesús Cernades",
+      "country": "pe",
+      "image": "/images/profile_default.webp"
+    },
+    {
+      "name": "Jonathan Munguia",
+      "country": "pe",
+      "image": "/images/profile_default.webp"
+    },
+    {
+      "name": "Jorge Sulca",
+      "country": "pe",
+      "image": "/images/profile_default.webp"
+    },
+    {
+      "name": "José Ugarte",
+      "country": "pe",
+      "image": "/images/profile_default.webp"
+    },
+    {
+      "name": "Laura La Rosa",
+      "country": "pe",
+      "image": "/images/profile_default.webp"
+    },
+    {
+      "name": "Leopoldo Paredes",
+      "country": "pe",
+      "image": "/images/profile_default.webp"
+    },
+    {
+      "name": "Luis Roca",
+      "country": "pe",
+      "image": "/images/profile_default.webp"
+    },
+    {
+      "name": "Manuel Toribio",
+      "country": "pe",
+      "image": "/images/profile_default.webp"
+    },
+    {
+      "name": "Richard Acuña",
+      "country": "pe",
+      "image": "/images/profile_default.webp"
+    },
+    {
+      "name": "Ronald Mas",
+      "country": "pe",
+      "image": "/images/profile_default.webp"
+    },
+    {
+      "name": "Rósulo Pérez",
+      "country": "pe",
+      "image": "/images/profile_default.webp"
+    },
+    {
+      "name": "William Echegaray",
+      "country": "pe",
+      "image": "/images/profile_default.webp"
+    }
+  ]
+}

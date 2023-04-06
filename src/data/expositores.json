@@ -1,0 +1,246 @@
+{
+  "plenarists":[
+    {
+      "name":"Alejandro Jofré",
+      "institution":"CMM, U. Chile",
+      "country":"cl",
+      "image":"/images/profile_default.webp"
+    },
+    {
+      "name":"Christian Valqui",
+      "institution":"PUCP",
+      "country":"pe",
+      "image":"/images/profile_default.webp"
+    },
+    {
+      "name":"Fabian Flores",
+      "institution":"U. Concepción",
+      "country":"cl",
+      "image":"/images/profile_default.webp"
+    },
+    {
+      "name":"Fabien Cornillier",
+      "institution":"UTEC",
+      "country":"pe",
+      "image":"/images/profile_default.webp"
+    },
+    {
+      "name":"Gonzalo Panizo",
+      "institution":"IMCA & FC, UNI",
+      "country":"pe",
+      "image":"/images/profile_default.webp"
+    },
+    {
+      "name":"Héctor Ramirez",
+      "institution":"CMM, U. Chile",
+      "country":"cl",
+      "image":"/images/profile_default.webp"
+    },
+    {
+      "name":"Joel Beltran",
+      "institution":"PUCP",
+      "country":"pe",
+      "image":"/images/profile_default.webp"
+    },
+    {
+      "name":"Oswaldo Velásquez",
+      "institution":"IMCA & FC, UNI",
+      "country":"pe",
+      "image":"/images/profile_default.webp"
+    },
+    {
+      "name":"Percy Fernández",
+      "institution":"PUCP",
+      "country":"pe",
+      "image":"/images/profile_default.webp"
+    },
+    {
+      "name":"Rommel Bustinza",
+      "institution":"U. Concepción",
+      "country":"cl",
+      "image":"/images/profile_default.webp"
+    },
+    {
+      "name":"Rubén Lizarbe",
+      "institution":"UERJ",
+      "country":"br",
+      "image":"/images/profile_default.webp"
+    },
+    {
+      "name":"Rudy Rosas",
+      "institution":"PUCP",
+      "country":"pe",
+      "image":"/images/profile_default.webp"
+    }
+  ],
+  "speakers":[
+    {
+      "name":"Abraham Muñoz",
+      "institution":"UERJ",
+      "country":"br",
+      "image":"/images/profile_default.webp"
+    },
+    {
+      "name":"Alessandri Canchoa",
+      "institution":"UNALM",
+      "country":"pe",
+      "image":"/images/profile_default.webp"
+    },
+    {
+      "name":"Alvaro Talavera",
+      "institution":"U. Pacífico",
+      "country":"pe",
+      "image":"/images/profile_default.webp"
+    },
+    {
+      "name":"Andrés Chulluncuy",
+      "institution":"IMCA & FC, UNI",
+      "country":"pe",
+      "image":"/images/profile_default.webp"
+    },
+    {
+      "name":"Anna Sikov",
+      "institution":"FIEECS, UNI",
+      "country":"pe",
+      "image":"/images/profile_default.webp"
+    },
+    {
+      "name":"Benito Ostos",
+      "institution":"IMCA & FC, UNI",
+      "country":"pe",
+      "image":"/images/profile_default.webp"
+    },
+    {
+      "name":"Christiam Figueroa",
+      "institution":"PUCP",
+      "country":"pe",
+      "image":"/images/profile_default.webp"
+    },
+    {
+      "name":"Christopher Salinas",
+      "institution":"IMCA, UNI",
+      "country":"pe",
+      "image":"/images/profile_default.webp"
+    },
+    {
+      "name":"Eladio Ocaña",
+      "institution":"IMCA & FC, UNI",
+      "country":"pe",
+      "image":"/images/profile_default.webp"
+    },
+    {
+      "name":"Enrique Chávez",
+      "institution":"U. Pacífico",
+      "country":"pe",
+      "image":"/images/profile_default.webp"
+    },
+    {
+      "name":"Ernesto Oré",
+      "institution":"IMCA & FC, UNI",
+      "country":"pe",
+      "image":"/images/profile_default.webp"
+    },
+    {
+      "name":"Helmuth Villavicencio",
+      "institution":"IMCA & FC, UNI",
+      "country":"pe",
+      "image":"/images/profile_default.webp"
+    },
+    {
+      "name":"Jack Arce",
+      "institution":"PUCP",
+      "country":"pe",
+      "image":"/images/profile_default.webp"
+    },
+    {
+      "name":"Joe Palacios",
+      "institution":"IMCA & FC, UNI",
+      "country":"pe",
+      "image":"/images/profile_default.webp"
+    },
+    {
+      "name":"John Cotrina",
+      "institution":"U. Pacífico",
+      "country":"pe",
+      "image":"/images/profile_default.webp"
+    },
+    {
+      "name":"Jonathan Farfán",
+      "institution":"PUCP",
+      "country":"pe",
+      "image":"/images/profile_default.webp"
+    },
+    {
+      "name":"José Cerda",
+      "institution":"FIEECS, UNI",
+      "country":"pe",
+      "image":"/images/profile_default.webp"
+    },
+    {
+      "name":"José Ugarte",
+      "institution":"FC, UNI",
+      "country":"pe",
+      "image":"/images/profile_default.webp"
+    },
+    {
+      "name":"Jimmy Támara",
+      "institution":"FC, UNI",
+      "country":"pe",
+      "image":"/images/profile_default.webp"
+    },
+    {
+      "name":"Luis Flores",
+      "institution":"IMCA & FC, UNI",
+      "country":"pe",
+      "image":"/images/profile_default.webp"
+    },
+    {
+      "name":"Orestes Bueno",
+      "institution":"U. Pacífico",
+      "country":"pe",
+      "image":"/images/profile_default.webp"
+    },
+    {
+      "name":"Pablo Cárdenas",
+      "institution":"IMCA, UNI",
+      "country":"pe",
+      "image":"/images/profile_default.webp"
+    },
+    {
+      "name":"Ricardo Ramos",
+      "institution":"PUCP",
+      "country":"pe",
+      "image":"/images/profile_default.webp"
+    },
+    {
+      "name":"Roland Rabanal",
+      "institution":"PUCP",
+      "country":"pe",
+      "image":"/images/profile_default.webp"
+    },
+    {
+      "name":"Rósulo Pérez",
+      "institution":"FC, UNI",
+      "country":"pe",
+      "image":"/images/profile_default.webp"
+    },
+    {
+      "name":"Rubén Félix",
+      "institution":"FIM, UNI",
+      "country":"pe",
+      "image":"/images/profile_default.webp"
+    },
+    {
+      "name":"Sergio Camiz",
+      "institution":"U. Roma",
+      "country":"it",
+      "image":"/images/profile_default.webp"
+    },
+    {
+      "name":"Yboon García",
+      "institution":"U. Pacífico",
+      "country":"pe",
+      "image":"/images/profile_default.webp"
+    }
+  ]
+}

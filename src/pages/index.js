@@ -59,10 +59,10 @@ export default function Home() {
                     p={2}
                   />
                 </Link>
-                <Link href='https://vra.uni.edu.pe/' isExternal target='_blank'>
+                <Link href='https://www.cmm.uchile.cl/' isExternal target='_blank'>
                   <Image
-                    src='/images/logo_uni.webp'
-                    alt='logo uni'
+                    src='/images/logo_cmm.webp'
+                    alt='logo cmm'
                     rounded='md'
                     shadow='md'
                     bg='white'
@@ -70,10 +70,10 @@ export default function Home() {
                     p={2}
                   />
                 </Link>
-                <Link href='https://www.cmm.uchile.cl/' isExternal target='_blank'>
+                <Link href='https://vra.uni.edu.pe/' isExternal target='_blank'>
                   <Image
-                    src='/images/logo_cmm.webp'
-                    alt='logo cmm'
+                    src='/images/logo_uni.webp'
+                    alt='logo uni'
                     rounded='md'
                     shadow='md'
                     bg='white'
